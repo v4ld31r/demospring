@@ -1,3 +1,3 @@
 # demospring
 
-Trying to make a springboot project.
+Trying to use the springboot framework.
